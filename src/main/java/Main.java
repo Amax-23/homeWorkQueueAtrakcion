@@ -13,6 +13,7 @@ public class Main {
             }
         }
     }
+
     public static List<Person> generateClients() {
         List<Person> people = new ArrayList<>();
         people.add(new Person(1, "Николас", "Здравускайте"));
